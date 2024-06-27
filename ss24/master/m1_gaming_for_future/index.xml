@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aquasolace on IMI Showtime</title>
+    <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/</link>
+    <description>Recent content in Aquasolace on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/process/</guid>
+      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We maintained ongoing communication with product owners each week to iterate on and refine project details. Programming We primarily programmed in Unity, engaging in weekly discussions with product owners and regular team meetings to set goals for the upcoming week.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/techstack/</guid>
+      <description>Tech Stack Overview Our project utilizes a diverse tech stack to support various aspects of development, design, 3D modeling, music production, and communication.&#xA;Development: We leverage Unity Engine for robust game development, integrated seamlessly with JetBrains Rider and Visual Studio for efficient coding and version control through GitLab.&#xA;Design: Graphic and UI design is powered by industry-standard tools including Adobe Photoshop and Adobe Illustrator, along with collaborative platforms like Figma and Mural for design iterations and team collaboration.</description>
+    </item>
+  </channel>
+</rss>

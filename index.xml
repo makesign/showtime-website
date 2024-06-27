@@ -288,6 +288,13 @@
       <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     <item>
+      <title>Process</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/process/</guid>
+      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We maintained ongoing communication with product owners each week to iterate on and refine project details. Programming We primarily programmed in Unity, engaging in weekly discussions with product owners and regular team meetings to set goals for the upcoming week.</description>
+    </item>
+    <item>
       <title>Features</title>
       <link>https://makesign.github.io/showtime-website/ss24/bachelor/b0-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -306,6 +313,13 @@
       <link>https://makesign.github.io/showtime-website/ss24/master/m0-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://makesign.github.io/showtime-website/ss24/master/m0-template/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/features/</guid>
       <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     <item>
@@ -328,6 +342,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://makesign.github.io/showtime-website/ss24/master/m0-template/techstack/</guid>
       <description>Tech Stack Hugo offers a couple of options to include diagrams right in the source code, see https://gohugo.io/content-management/diagrams/&#xA;Here&amp;rsquo;s a mermaid example: (note the hasMermaid = true parameter in the front matter!)&#xA;classDiagram Animal &lt;|-- Duck Animal &lt;|-- Fish Animal &lt;|-- Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() } Future &amp;amp; A M S i o i q f b B x u j o e a ( - x d r a &amp;gt; e f R &amp;gt; c o C n u o b ( n r ) ) d n e e J d r o s i n N o R D t o i u a a n g d d l o i t n e D i a g o n a l s C V u e r r v t e i d c a l n o t A N C : o u l d r r i A a / I v n s i n e e h s t d - e - t r l B i h i i s i o n &#39; s r e q n .</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makesign.github.io/showtime-website/ss24/master/m1_gaming_for_future/techstack/</guid>
+      <description>Tech Stack Overview Our project utilizes a diverse tech stack to support various aspects of development, design, 3D modeling, music production, and communication.&#xA;Development: We leverage Unity Engine for robust game development, integrated seamlessly with JetBrains Rider and Visual Studio for efficient coding and version control through GitLab.&#xA;Design: Graphic and UI design is powered by industry-standard tools including Adobe Photoshop and Adobe Illustrator, along with collaborative platforms like Figma and Mural for design iterations and team collaboration.</description>
     </item>
     <item>
       <title>ws23</title>
